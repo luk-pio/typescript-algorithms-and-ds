@@ -1,3 +1,5 @@
-function mergeSort(iterable, comparator) {
-    
+exports.mergeSort = function(iterable, comparator) {
+   if (iterable.length) {
+       left = mergeSort(
+   }
 }
