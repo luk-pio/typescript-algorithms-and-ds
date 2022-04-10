@@ -1,4 +1,4 @@
-const { mergesort } = require("./merge-sort")
+const { mergeSort } = require("./merge-sort")
 
 test("Returns a correctly sorted array from random input", () => {
     const input = [9, 0, 3, 1, 10];
