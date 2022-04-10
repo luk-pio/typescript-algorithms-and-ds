@@ -2,7 +2,27 @@
   "scripts": {
     "test": "jest"
   },
-  "dependencies": {
-    "jest": "^27.5.1"
-  }
+  "name": "typescript-algorithms-and-ds",
+  "version": "1.0.0",
+  "description": "A project containing basic algorithms and data structures implemented using typescript",
+  "main": "index.js",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "typescript": "^4.6.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luk-pio/typescript-algorithms-and-ds.git"
+  },
+  "keywords": [
+    "algorithms",
+    "data-structures",
+    "typescript"
+  ],
+  "author": "Lukasz Piotrak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luk-pio/typescript-algorithms-and-ds/issues"
+  },
+  "homepage": "https://github.com/luk-pio/typescript-algorithms-and-ds#readme"
 }
